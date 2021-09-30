@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: chiranjib3patra
+Build-Jdk: 13.0.1
+Implementation-Title: oauth-authentication
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.gmf.dps
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/oauth-authentication
+Created-By: Maven Integration for Eclipse
+
